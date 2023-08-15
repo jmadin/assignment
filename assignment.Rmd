@@ -1,0 +1,39 @@
+---
+title: "Assignment"
+author: "Josh Madin"
+date: "2023-08-15"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(raster)
+library(habtools)
+library(ggplot2)
+library(dplyr)
+library(fishualize)
+
+plot(horseshoe)
+```
+
+### Current lab
+Geometric ecology lab
+
+### Project focus 
+Mimicking coral reefs
+
+### Why you choose this course 
+I didn't have a choice.
+
+### What do you want to learn about the most in this course
+I want to understand how the measure ecosystem functions
+
+### Your R experience
+Intermediate. A year or so experience, mostly with statistics.
+
+### Fun fact  
+I used to have purple dreadlocks. 
+
